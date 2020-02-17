@@ -1,0 +1,1 @@
+{"moduleName":["SmallPrelude"],"imports":[{"annotation":{"meta":null,"sourceSpan":{"start":[1,1],"end":[6,66]}},"moduleName":["Prim"]}],"builtWith":"0.13.6","modulePath":"src\\SmallPrelude.purs","exports":["println","discard"],"decls":[],"comments":[],"foreign":["println","discard"],"sourceSpan":{"start":[1,1],"end":[6,66]}}

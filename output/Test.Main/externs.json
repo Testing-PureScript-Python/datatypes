@@ -1,0 +1,1 @@
+{"efVersion":"0.13.6","efModuleName":["Test","Main"],"efExports":[],"efImports":[{"eiModule":["Prim"],"eiImportType":{"Implicit":[]},"eiImportedAs":["Prim"]},{"eiModule":["Prim"],"eiImportType":{"Implicit":[]},"eiImportedAs":null}],"efFixities":[],"efTypeFixities":[],"efDeclarations":[],"efSourceSpan":{"start":[1,1],"name":"test\\Main.purs","end":[1,23]}}

@@ -1,0 +1,1 @@
+{"moduleName":["Test","Main"],"imports":[{"annotation":{"meta":null,"sourceSpan":{"start":[1,1],"end":[1,23]}},"moduleName":["Prim"]}],"builtWith":"0.13.6","modulePath":"test\\Main.purs","exports":[],"decls":[],"comments":[],"foreign":[],"sourceSpan":{"start":[1,1],"end":[1,23]}}
