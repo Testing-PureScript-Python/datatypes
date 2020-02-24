@@ -1,6 +1,8 @@
 module Main where
 
 import SmallPrelude
+import Effect
+import Prelude
 
 data MyEnum = A | B | C
 
@@ -19,7 +21,7 @@ data MyParametricADT a -- this is the type declaration
 
 newtype PF a = PF {it :: MyParametricADT a}
 
-main :: IO {}
+main :: Effect Unit
 main = do
     println("enums:")
     println A

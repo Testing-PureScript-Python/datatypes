@@ -1,6 +1,9 @@
 module SmallPrelude where
 
-data IO a
+import Effect
+import Prelude
+import Effect.Console
 
-foreign import println :: forall a. a -> IO {}
-foreign import discard :: forall a b. IO a -> (a -> IO b) -> IO b
+foreign import showAny :: forall a. a -> String
+
+println = log <<< showAny
